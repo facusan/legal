@@ -39,6 +39,25 @@ Fuentes del derecho:
     + **Segunda instancia**, a través de una cámara de apelaciones, compuesta por 3 jueces en cada sala en que está dividida dicha cámara. Las salas emiten fallos plenarios, es decir, para que tengan una única interpretación.
     + **Tercera instancia**, solo con reserva se accede a la corte suprema de justicia, compuesta por 9 miembros y que representa el máximo tribunal de alzada.
 
-Los fallos de primera instancia son apelables, y en algunos casos se puede recurrir luego de un fallo de cámara, a la CSJ.
+    Los fallos de primera instancia son apelables, y en algunos casos se puede recurrir luego de un fallo de cámara, a la CSJ.
 - **Doctrina**, son las opiniones de las personas entendidas del derecho (especialistas, analistas y jurisconsultos) que no son jueces, sino que son estudiosos de determinados temas de determinadas áreas del Derecho, y que emiten sus opiniones mediante artículos. Sirve a los jueces para fundamentar y determinar los fallos que realicen.
+
+# Las ramas de derecho y la ingeniería
+## Derecho positivo
+Es el derecho establecido, el que está escrito,el arrancado de las normas jurídicas, dictado por la autoridad competente y que rige para toda la sociedad con caracter obligatorio. Está formado por el conjunto de las normas jurídicas consagradas por la Constitución, las leyes nacionales y provinciales, decretos, ordenanzas municipales, y disposiciones aplicables según la jerarquía normativa.
+## Derecho natural
+Es el dictado por la recta razón. No está escrito pero hay razones para cumplirlo. No existe obligación de cumplirlo.
+## Derecho objetivo
+Es la ley, el derecho norma por excelencia. Es la regla social obligatoria, la norma de conducta establecida por el legislador y cuyo cumplimiento garantiza el Estado bajo coacción. Rige para todos los individuos y es de caracter obligatorio.
+## Derecho subjetivo
+Es la facultad, derecho o prerrogativa (privilegio, gracia o exención) jurídica atribuida al individuo por la norma de derecho objetivo que le permite ejecutar ciertos actos. La persona tiene la facultad en este derecho pero nadie lo obliga aunque si entra debe cumplirlo _(Ej matrimonio)_.
+## Derecho público
+Rige los derechos y obligaciones de una Nación, es aquel en el cual el Estado interviene como poder público y lo que realiza afecta a todos, pero en el derecho público impera la sociedad, el bien de todos.
+## Derecho privado
+Relaciona juridicamente a los habitantes de una comunidad pero en el solo intervienen los particulares o el Estado como persona jurídica.
+## Derecho patrimonial
+En todos los casos está la parte económica de por medio, debe existir un objeto económico (es un elemento fundamental el objeto económico de la cosa). En los otros puede haber objeto económico y objeto penal, en el patrimonial hay exclusivamente objeto económico.
+## Derecho extrapatrimonial
+Es el derecho a la vida, a la integridad física, al honor, a la familia, etc.
+
 
