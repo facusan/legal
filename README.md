@@ -2,7 +2,7 @@
 Resumen de Legislación y Ejercicio Profesional de la Ingeniería en Informática  (7140) - FIUBA
 
 
-## Ley
+# Ley
 Es toda norma jurídica, social, obligatoria emanada por una autoridad competente.**Objetivamente** es toda regla del derecho que impone obligaciones. **Subjetivamente**, es la facultad individual de obrar de acuerdo a esa norma.
 
 ### Efectos de la ley
@@ -26,6 +26,19 @@ El punto de vista material se refiere a la ley por su contenido, el cual puede i
 
 Formas de interpretación:
 - **Literal o gramatical**, es la letra fría de la ley, la lectura de las palabras y los signos de puntuación.
-- **Legal o exegética**, es la historia de la ley, cómo nació. La voluntad del legislador al momento de proponerla. Previo al articulado de la ley están los **_"visto y considerando"_** que muchas tampoco aclaran y hay que ir al diario de las sesiones de diputados, de los senadores, o más atrás, al trabajo de las comisiones.
+- **Legal o exegética**, es la historia de la ley, cómo nació. La voluntad del legislador al momento de proponerla. Previo al articulado de la ley están los **_"visto y considerando"_** que muchas veces tampoco aclaran y hay que ir al diario de las sesiones de diputados, de los senadores, o más atrás, al trabajo de las comisiones.
 - **Doctrinal o gramatical**, se refiere al análisis de una ley semejante, de todas las otras leyes paralelas relativas a ese tema que sirvan para clarificar la ley en cuestión.
+
+# Derecho
+Es el conjunto de las normas y reglamentos ordenadas, determinadas, estipuladas, instrumentadas por la autoridad competente para el conjunto de personas que conforman la sociedad y cuyo cumplimiento es de caracter obligatorio.
+
+Fuentes del derecho:
+- **Ley**
+- **Jurisprudencia**, es la vida del Derecho, son los fallos tribunalicios. Una vez que un juez aplica un ley, determina en su sentencia cómo y porqué aplica para ese caso la ley. El juez sienta jurisprudencia, establece una interpretación de acuerdo a su lectura gramatical. Debido a problemas de interpretación hay 3 etapas:
+    + **Primera instancia**, a traves de un juez.
+    + **Segunda instancia**, a través de una cámara de apelaciones, compuesta por 3 jueces en cada sala en que está dividida dicha cámara. Las salas emiten fallos plenarios, es decir, para que tengan una única interpretación.
+    + **Tercera instancia**, solo con reserva se accede a la corte suprema de justicia, compuesta por 9 miembros y que representa el máximo tribunal de alzada.
+
+Los fallos de primera instancia son apelables, y en algunos casos se puede recurrir luego de un fallo de cámara, a la CSJ.
+- **Doctrina**, son las opiniones de las personas entendidas del derecho (especialistas, analistas y jurisconsultos) que no son jueces, sino que son estudiosos de determinados temas de determinadas áreas del Derecho, y que emiten sus opiniones mediante artículos. Sirve a los jueces para fundamentar y determinar los fallos que realicen.
 
