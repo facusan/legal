@@ -59,5 +59,23 @@ Relaciona juridicamente a los habitantes de una comunidad pero en el solo interv
 En todos los casos está la parte económica de por medio, debe existir un objeto económico (es un elemento fundamental el objeto económico de la cosa). En los otros puede haber objeto económico y objeto penal, en el patrimonial hay exclusivamente objeto económico.
 ## Derecho extrapatrimonial
 Es el derecho a la vida, a la integridad física, al honor, a la familia, etc.
-
-
+## Derecho constitucional
+Son las normas fundamentales en la organización del Estado. Nos compete a todos y determina las reglas de convivencia para las personas que integran ese Estado.
+## Derecho administrativo
+Rige las relaciones entre un ente del Estado y un ente particular o entre Entes del Estado entre sí. Tiene relación con los actos propios del Estado como la adminsitración pública, la justicia, los servicios públicos.
+## Derecho penal
+Establece sanciones para el que comete un acto no permitido por la ley. Determina la pena, el quantum de castigo.
+## Derecho procesal
+Determina las normas y procedimientos para la administración de la justicia. Rige la organización de los tribunales en la Argentina. El ingeniero puede estar inmerso en la administración de justicia a través de su dictamen técnico (peritaje) y es el único que lo puede hacer.
+## Derecho laboral
+Relaciona juridicamente empleados y empleadores. Algunos lo consideran del Derecho Privado.
+## Derecho civil
+Regla, normas, las relaciones jurídicas entre los componentes de una sociedad. Dichas reglas están estan recopiladas en el Código Civil. Este derecho es, por así decirlo, el fundador de todos los derechos.
+## Derecho comercial
+Es la relación jurídica entre comerciantes que realizan actos de comercio. Para nosotros son importantes las herramientas de las sociedades comerciales.
+## Derecho real
+Es la relación jurídica entre una persona y la cosa material, donde aparece el "dominio", esa relación íntima que tiene quien ejerce el derecho sobre cosas materiales. Son de caracter perpetuo, absoluto y exclusivo, aunque con ciertas limitaciones.
+## Derecho industrial
+Son aquellos por los cuales el titular tiene la facultad de disponer, usar o gozar de una creaación intelectual. Relaciona juridicamente a la persona y la cosa inmaterial o intelectual. Nosotros tomaremos las herramientas de lo que genericamente se denomina **derechos intelectuales** que enmarca a los derechos industriales. La propiedad industrial se refiere a los derechos de invención (innovación tecnológica), las marcas y las designaciones (distinción de un producto) y la propiedad intelectual (mi obra me pertence).
+## 	Derecho Creditorio, Personal, u Obligaciones
+Rige las relaciones jurídicas entre una persona que ejerce un derecho sobre otra que contrae una obligación para con la primera. De aquí nacen los contratos. 
