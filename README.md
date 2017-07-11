@@ -79,3 +79,35 @@ Es la relación jurídica entre una persona y la cosa material, donde aparece el
 Son aquellos por los cuales el titular tiene la facultad de disponer, usar o gozar de una creaación intelectual. Relaciona juridicamente a la persona y la cosa inmaterial o intelectual. Nosotros tomaremos las herramientas de lo que genericamente se denomina **derechos intelectuales** que enmarca a los derechos industriales. La propiedad industrial se refiere a los derechos de invención (innovación tecnológica), las marcas y las designaciones (distinción de un producto) y la propiedad intelectual (mi obra me pertence).
 ## 	Derecho Creditorio, Personal, u Obligaciones
 Rige las relaciones jurídicas entre una persona que ejerce un derecho sobre otra que contrae una obligación para con la primera. De aquí nacen los contratos. 
+
+# Pirámide jurídica
+1. Constitución Nacional
+2. Leyes Nacionales
+3. Decretos
+    - Reglamentarios, aquellos que continúan una ley aclarando y puntualizando elementos que la ley no tiene. Establecen formas de aplicación e interpretación pero nunca pueden alterar la esencia de las leyes.
+    - Decretos propiamente dichos, son emitidos por el Ejecutivo pero tienen capacidad propia de legislar.
+4. Resoluciones administrativas, son leyes emitidas por una autoridad inferior al poder ejecutivo (ministros, secretarios de estado, directores nacionales de areas). Dichos funcionarios las establecen determinando, por ejemplo como se aplica tal decreto.
+5. Constituciones, Leyes y Decretos provinciales
+6. Ordenanzas municipales, corresponden a una ley emitida por una poder municipal. Reglamentaciones de instalaciones, edificios, etc.
+7.  Edictos policiales.
+
+# Sujetos del derecho
+
+Es sujeto del derecho todo ente capaz de adquirir derechos y contraer obligaciones. Se dice _"ente"_ pues se distingue dos personas, una es la persona humana (de existencia visible) y la otra es la persona jurídica (de existencia ideal).
+## Persona humana
+Atributos de la personalidad:
+- **Nombre** , sirve de identificación y para diferenciarla del resto. 
+- **Estado**, es la posición jurídica respecto a la sociedad. Define situaciones de relación familiar o legal.
+- **Domicilio**, es el asiento o radicación jurídica.
+    - **Real**, donde vive, donde pernocta.
+    - **Legal**, donde se adquieren derechos y se contraen obligaciones.
+    - **Capacidad**, es la facultad del individuode adquirir derechos y contraer obligaciones. En los contratos de obra aparecerán la capacidad jurídica, técnica, económica y financiera.
+        - **De derecho (se es titular)**, es el que actua en función de lo que la ley permite, ejerciendo derechos que la ley le da y actuando como titular.
+        - **De hecho (no se es titular)**, no se es titular pero se obra de acuerdo a los derechos que da la ley. Ejerzo la capacidad en nombre de un tercero dado por la ley.
+    - **Incapacidad**, es la falta de capacidad que tiene el indiciduo para adquirir derechos y contraer obligaciones
+        - **De derecho**
+            - **Absoluto**, se pierde la facultad de ser titular. No existe en Argentina (por ej esclavos).
+            - **Relativo**, no se puede ser titular cirscunstancialmente, esto es, en ciertas situaciones. Podemos ser nosotros en un peritaje, en función de una tasación nos inhiben de ser comprador de ese objeto que hemos tasado.
+        - **De hecho**
+            - **Absoluto**, se es titular pero no se puede ejercer esa titularidad (personas por nacer, menores de 14 años, dementes, sordomudos analfabetos, ausentes declarados en juicio).
+            - **Relativo**, se es titular pero no se puede ejercer esa titularidad temporalmente por alguna circunstancia especial (menores entre 18 y 21 años, no pueden tener cuenta bancaria pero pueden ir a la guerra).  
