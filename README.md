@@ -110,4 +110,17 @@ Atributos de la personalidad:
             - **Relativo**, no se puede ser titular cirscunstancialmente, esto es, en ciertas situaciones. Podemos ser nosotros en un peritaje, en función de una tasación nos inhiben de ser comprador de ese objeto que hemos tasado.
         - **De hecho**
             - **Absoluto**, se es titular pero no se puede ejercer esa titularidad (personas por nacer, menores de 14 años, dementes, sordomudos analfabetos, ausentes declarados en juicio).
-            - **Relativo**, se es titular pero no se puede ejercer esa titularidad temporalmente por alguna circunstancia especial (menores entre 18 y 21 años, no pueden tener cuenta bancaria pero pueden ir a la guerra).  
+            - **Relativo**, se es titular pero no se puede ejercer esa titularidad temporalmente por alguna circunstancia especial (menores entre 18 y 21 años, no pueden tener cuenta bancaria pero pueden ir a la guerra).
+## Persona jurídica
+Nacen y se extinguen por medio del Estado. El Estado permite su existencia, las crea y en determinado momento las extingue.
+- **De derecho público**
+    - **De existencia necesaria**, de acuerdo con la Constitución son: el Estado Nacional, los Estados provinciales y municipales, la iglesia católica apostólica romana.
+    - **De existencia posible**
+        - **Entes autónomos del Estado**, aquellos que tienen la facultad de administrarse a si mismos y cuyo objeto son públicos específicos, pero además tienen la capacidad de dictarse normas(ej, municipalidades, UBA).
+        - **Entes autárquicos del Estado**, aquellos que tienen la facultad de adminsitrarse a si mismos y cuyo objeto son fines públicos específicos. Son agentes del Estado con una función particular (ej, empresas del Estado, Vialidad Nacional).
+- **De derecho privado**
+    - **Asociaciones, federaciones, confederaciones**
+    - **Fundaciones**
+    - **Corporaciones**
+    - **Sociedades**
+
