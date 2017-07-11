@@ -43,41 +43,41 @@ Fuentes del derecho:
 - **Doctrina**, son las opiniones de las personas entendidas del derecho (especialistas, analistas y jurisconsultos) que no son jueces, sino que son estudiosos de determinados temas de determinadas áreas del Derecho, y que emiten sus opiniones mediante artículos. Sirve a los jueces para fundamentar y determinar los fallos que realicen.
 
 # Las ramas de derecho y la ingeniería
-## Derecho positivo
+- **Derecho positivo**
 Es el derecho establecido, el que está escrito,el arrancado de las normas jurídicas, dictado por la autoridad competente y que rige para toda la sociedad con caracter obligatorio. Está formado por el conjunto de las normas jurídicas consagradas por la Constitución, las leyes nacionales y provinciales, decretos, ordenanzas municipales, y disposiciones aplicables según la jerarquía normativa.
-## Derecho natural
+- **Derecho natural**
 Es el dictado por la recta razón. No está escrito pero hay razones para cumplirlo. No existe obligación de cumplirlo.
-## Derecho objetivo
+- **Derecho objetivo**
 Es la ley, el derecho norma por excelencia. Es la regla social obligatoria, la norma de conducta establecida por el legislador y cuyo cumplimiento garantiza el Estado bajo coacción. Rige para todos los individuos y es de caracter obligatorio.
-## Derecho subjetivo
+- **Derecho subjetivo**
 Es la facultad, derecho o prerrogativa (privilegio, gracia o exención) jurídica atribuida al individuo por la norma de derecho objetivo que le permite ejecutar ciertos actos. La persona tiene la facultad en este derecho pero nadie lo obliga aunque si entra debe cumplirlo _(Ej matrimonio)_.
-## Derecho público
+- **Derecho público**
 Rige los derechos y obligaciones de una Nación, es aquel en el cual el Estado interviene como poder público y lo que realiza afecta a todos, pero en el derecho público impera la sociedad, el bien de todos.
-## Derecho privado
+- **Derecho privado**
 Relaciona juridicamente a los habitantes de una comunidad pero en el solo intervienen los particulares o el Estado como persona jurídica.
-## Derecho patrimonial
+- **Derecho patrimonial**
 En todos los casos está la parte económica de por medio, debe existir un objeto económico (es un elemento fundamental el objeto económico de la cosa). En los otros puede haber objeto económico y objeto penal, en el patrimonial hay exclusivamente objeto económico.
-## Derecho extrapatrimonial
+- **Derecho extrapatrimonial**
 Es el derecho a la vida, a la integridad física, al honor, a la familia, etc.
-## Derecho constitucional
+- **Derecho constitucional**
 Son las normas fundamentales en la organización del Estado. Nos compete a todos y determina las reglas de convivencia para las personas que integran ese Estado.
-## Derecho administrativo
+- **Derecho administrativo**
 Rige las relaciones entre un ente del Estado y un ente particular o entre Entes del Estado entre sí. Tiene relación con los actos propios del Estado como la adminsitración pública, la justicia, los servicios públicos.
-## Derecho penal
+- **Derecho penal**
 Establece sanciones para el que comete un acto no permitido por la ley. Determina la pena, el quantum de castigo.
-## Derecho procesal
+- **Derecho procesal**
 Determina las normas y procedimientos para la administración de la justicia. Rige la organización de los tribunales en la Argentina. El ingeniero puede estar inmerso en la administración de justicia a través de su dictamen técnico (peritaje) y es el único que lo puede hacer.
-## Derecho laboral
+- **Derecho laboral**
 Relaciona juridicamente empleados y empleadores. Algunos lo consideran del Derecho Privado.
-## Derecho civil
+- **Derecho civil**
 Regla, normas, las relaciones jurídicas entre los componentes de una sociedad. Dichas reglas están estan recopiladas en el Código Civil. Este derecho es, por así decirlo, el fundador de todos los derechos.
-## Derecho comercial
+- **Derecho comercial**
 Es la relación jurídica entre comerciantes que realizan actos de comercio. Para nosotros son importantes las herramientas de las sociedades comerciales.
-## Derecho real
+- **Derecho real**
 Es la relación jurídica entre una persona y la cosa material, donde aparece el "dominio", esa relación íntima que tiene quien ejerce el derecho sobre cosas materiales. Son de caracter perpetuo, absoluto y exclusivo, aunque con ciertas limitaciones.
-## Derecho industrial
+- **Derecho industrial**
 Son aquellos por los cuales el titular tiene la facultad de disponer, usar o gozar de una creaación intelectual. Relaciona juridicamente a la persona y la cosa inmaterial o intelectual. Nosotros tomaremos las herramientas de lo que genericamente se denomina **derechos intelectuales** que enmarca a los derechos industriales. La propiedad industrial se refiere a los derechos de invención (innovación tecnológica), las marcas y las designaciones (distinción de un producto) y la propiedad intelectual (mi obra me pertence).
-## 	Derecho Creditorio, Personal, u Obligaciones
+- **Derecho Creditorio, Personal, u Obligaciones**
 Rige las relaciones jurídicas entre una persona que ejerce un derecho sobre otra que contrae una obligación para con la primera. De aquí nacen los contratos. 
 
 # Pirámide jurídica
