@@ -123,4 +123,23 @@ Nacen y se extinguen por medio del Estado. El Estado permite su existencia, las 
     - **Fundaciones**
     - **Corporaciones**
     - **Sociedades**
+## Acto licito
+- **Hecho juridico**, es todo acontecimiento capaz de producir, modificar o extinguir derechos u obligaciones.
+- **Acto jurídico**, hecho jurídico voluntario. Para que sea voluntario se deben cumplir 3 condiciones:
+    - **Intención**: sabe, entiende el propósito de realizar el acto.
+    - **Discernimiento**: tiene que tener la facultad de distinguir lo bueno de lo malo.
+    - **Libertad**: tiene que tener la capacidad de decidir sin ningún tipo de coacción, ya sea física o moral.
+- **Elementos de un acto jurídico**
+    - **Sujeto**, se caracteriza por haber actuado voluntariamente y es la persona que realiza el acto jurídico.
+    - **Objeto**, es la cosa. Por ej la obra, el proyecto.
+    - **Forma**, cuando los actos jurídicos se realizan bajo ciertos requisitos. Por ej, obra pública.
+- **Imputabilidad**
+Se refiere a la responsabilidad de una persona sobre un acto jurídico, cuando esa persona es sujeto de ese acto.
+- **Causales**: se es responsable cuando se actua con:
+    - **Dolo**, intención de realizar las cosas, incumpliendo de la obligación.
+    - **Culpa**, se realiza el acto con negligencia o impericia. Se realiza pero no cumpliendo con la totalidad de las formas para que el acto este correctamente realizado, o sea se omiten acciones, diligencias que se suponen necesarias por la naturaleza del acto.
+    - **Mora**, cumplimiento de la obligación en forma tardía.
+- **No causales**: (inimputabilidad del sujeto) No se es responsable cuando existe:
+    - **Caso fortuito**, es un hecho de la naturaleza que no pudo preveerso o que aun previsto no se ha podido evitar.
+    - **Fuerza mayor**, se refiere a lo  que se conoce como "hecho del soberano" que impidió cumplir con la obligación pues escapó a la mano del hombre.
 
