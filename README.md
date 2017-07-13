@@ -157,4 +157,10 @@ Se clasifican según afectan a:
 - **Al acto jurídico en sí**
     - **Simulación**, encubrir un acto jurídico bajo la apariencia de otro.
     - **Fraude**, protegerse bajo la ley pero con intención de perjudicar a un tercero.
+# Acto ilícito
+**Delito**, es un hecho jurídico voluntario ilícito y realizado con dolo, esto es con intención de producir daño.
+- **Delito civil**, es un delito del ámbito privado que posee una sanción exclusivamente patrimonial. Es toda infracción a la ley de carácter doloso, pues produce daño siempre. El juez falla por analogía, o sea, dentro del código se ve qué figura está en relación con el hecho. Para demostrar que hubo un delito civil hay que demostrar que el daño ha sido consumado.
+- **Delito penal**, es un delito del ámbito público cuya sanción consiste en privación de la libertad pero además puede tener sanción económica. Es toda acción típicamente antijurídica. Además, se dice que debe existir estrictamente la figura del hecho dentro del código, el juez sólo puede fallar a través de una definición exacta del delito en la ley, no se puede fallar por analogía.
+- **Cuasidelito**, acto ilícito realizado sin dolo, es decir, sin intención de causar daño, aunque lo ha producido.
+
 
