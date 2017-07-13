@@ -176,8 +176,8 @@ Se clasifican según afectan a:
     - **De dominio público**, el titular pertenece al derecho público, ej las plazas, playas, riberas, etc.
     - **De dominio privado**, el titular pertenece al derecho privado, ej playas de estacionamiento.
 
-**BIEN**, *"los objetos inmateriales susceptibles de valor, e igualmente las cosas, se llaman bienes"* Art 2312 CC
-**PATRIMONIO**, es lo que tenemos, la suma del debe y el haber. Está compuesto por las cosas materiales, los bienes inmateriales (software, patente de invención, marca) y las deudas.
+- **BIEN**, *"los objetos inmateriales susceptibles de valor, e igualmente las cosas, se llaman bienes"* Art 2312 CC
+- **PATRIMONIO**, es lo que tenemos, la suma del debe y el haber. Está compuesto por las cosas materiales, los bienes inmateriales (software, patente de invención, marca) y las deudas.
 **"El conjunto de los bienes de una persona consituye su patrimonio"** Art 2312 CC
 
 
