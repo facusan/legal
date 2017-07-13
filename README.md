@@ -142,4 +142,19 @@ Se refiere a la responsabilidad de una persona sobre un acto jurídico, cuando e
 - **No causales**: (inimputabilidad del sujeto) No se es responsable cuando existe:
     - **Caso fortuito**, es un hecho de la naturaleza que no pudo preveerso o que aun previsto no se ha podido evitar.
     - **Fuerza mayor**, se refiere a lo  que se conoce como "hecho del soberano" que impidió cumplir con la obligación pues escapó a la mano del hombre.
+## Vicios en los actos jurídicos
+Hacen que pueda tornarse ilegítimo el acto jurídico o al menos lo altera. No quitan responsabilidades, no impiden los efectos legales.
+Se clasifican según afectan a:
+- **La intención**
+    - **Error**, falsa oción de una cosa. Puede ser:
+        - **Error de Derecho**: Falsa noción sobre la naturaleza jurídica de la norma.
+        - **Error de Hecho**: Cuando se ha aplicado incorrectamente esa norma.
+    - **Ignorancia**, cuando actuamos con falta de noción sobre esa cosa.
+    - **Dolo**, puede ser la intención de causar daño, de engañar en la realización de una cosa, de no cumplir con una obligación.
+- **La Libertad**
+    - **Violencia**, efectuar un acto jurídico empleando la fuerza.
+    - **Intimidación**, se ha hecho un acto jurídico insipirado en el temor.
+- **Al acto jurídico en sí**
+    - **Simulación**, encubrir un acto jurídico bajo la apariencia de otro.
+    - **Fraude**, protegerse bajo la ley pero con intención de perjudicar a un tercero.
 
