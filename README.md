@@ -163,4 +163,22 @@ Se clasifican según afectan a:
 - **Delito penal**, es un delito del ámbito público cuya sanción consiste en privación de la libertad pero además puede tener sanción económica. Es toda acción típicamente antijurídica. Además, se dice que debe existir estrictamente la figura del hecho dentro del código, el juez sólo puede fallar a través de una definición exacta del delito en la ley, no se puede fallar por analogía.
 - **Cuasidelito**, acto ilícito realizado sin dolo, es decir, sin intención de causar daño, aunque lo ha producido.
 
+# Objeto del derecho
+**COSA**, es todo ente susceptible de tener valor económico, Es todo aquello que tiene entidad corporal o espiritual, natural o artificial, real o abstracta, material o inmaterial.
+## Clasificación de la cosa u objeto del derecho
+- **Por si misma**
+    - **Material ó física**, ej la obra, la instalación.
+    - **Inmaterial ó intelectual**, ej el proyecto de la obra.
+- **Por su carácter**
+    - **Mueble**, cosas que pueden moverse por sí mismas o por una fuerza exterior, ej la prenda.
+    - **Inmueble**, cosas que están arraigadas al suelo, por su naturaleza están inmovilizadas, ej la hipoteca.
+- **Por su relación a las personas**
+    - **De dominio público**, el titular pertenece al derecho público, ej las plazas, playas, riberas, etc.
+    - **De dominio privado**, el titular pertenece al derecho privado, ej playas de estacionamiento.
+
+**BIEN**, *"los objetos inmateriales susceptibles de valor, e igualmente las cosas, se llaman bienes"* Art 2312 CC
+**PATRIMONIO**, es lo que tenemos, la suma del debe y el haber. Está compuesto por las cosas materiales, los bienes inmateriales (software, patente de invención, marca) y las deudas.
+**"El conjunto de los bienes de una persona consituye su patrimonio"** Art 2312 CC
+
+
 
